@@ -1,4 +1,4 @@
-**INTRODUCTION**
+**INTRODUCTION**</br>
   The project aims to create a sentiment analysis model.
   This model will predict stock price movements using textual data.
   Data sources include news articles, social media posts, and other financial news and opinions.
